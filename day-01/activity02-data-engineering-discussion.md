@@ -10,7 +10,7 @@ B) Synapse Spark Pool
 
 C) Integration Runtime
 
-E) It depends
+D) It depends
 
 ## Audience Poll 2
 
